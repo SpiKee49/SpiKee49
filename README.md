@@ -1,5 +1,5 @@
-Hello fellow visitor 👋  
-my name is René, I'm 21 years young university student from Slovakia. I'm interested in web design and development, sometimes in graphic design too, but that's occasional 😉.
+# Hello fellow visitor 👋  
+My name is René, I'm 21 years young university student from Slovakia. I'm interested in web design and development, sometimes in graphic design too, but that's occasional 😉.
 
 📃 As a person I'm trying my best to be as possitive as I can, even in serious situations I seek for oportunities to fit in a small joke or pun. Not that I'm rude or disturbing, I just like to release some tension, not just for me but mostly for people around me. 
 
